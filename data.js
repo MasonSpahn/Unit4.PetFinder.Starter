@@ -2,7 +2,7 @@
 const pets = [
     {
         id: 1,
-        name: 'FidoL',
+        name: 'Fido',
         breed: 'Labrador',
         age: 3,
         owner: 'John',
